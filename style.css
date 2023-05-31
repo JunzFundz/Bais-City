@@ -1,0 +1,38 @@
+
+   .navbar-brand img{
+    margin-top: -7px !important;
+    object-fit: contain;
+    aspect-ratio: 3/2;
+    width: 100px;
+   }
+   .car-imgs .item-new-inn img{
+    margin-top: -100px;
+    object-fit: contain;
+    aspect-ratio: 3/1;
+    width: 100%;
+   }
+   #desc {
+    margin-top: 500px;
+    margin-left: 50px;
+    text-align: center;
+    position: absolute;
+   }
+   nav{
+    height: 80px;
+   }
+
+.line{
+    width: 70%; background-color:black; height:2px;
+}
+.pcl-hymm p, .side-text-1 p{
+    margin-top: 30px;
+}
+video{
+    margin-top: 30px;
+}
+.label-in-text{
+    font-family: cursive;
+    margin-top: 60px;
+}
+
+
